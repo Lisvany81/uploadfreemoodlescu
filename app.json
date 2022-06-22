@@ -1,0 +1,10 @@
+﻿{
+  "name": "TG-Uploader v7.1.0",
+  "description": "Sube archivos a Nextcloud y Moodles directamente desde Telegram.",
+  "env": {
+    "bot_token": {
+      "description": "Cree un bot de @BotFather e ingrese su token de API",
+      "value": ""
+    }
+  }
+}
